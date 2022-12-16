@@ -1,0 +1,6 @@
+Message[302] C:\USERS\LOGICOS\DOCUMENTS\CJ_DIGITALES_ENSAN\PINES_CJ.X\MAIN_PINES_CJ.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LOGICOS\DOCUMENTS\CJ_DIGITALES_ENSAN\PINES_CJ.X\MAIN_PINES_CJ.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LOGICOS\DOCUMENTS\CJ_DIGITALES_ENSAN\PINES_CJ.X\MAIN_PINES_CJ.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\LOGICOS\DOCUMENTS\CJ_DIGITALES_ENSAN\PINES_CJ.X\MAIN_PINES_CJ.ASM 48 : Found label after column 1. (SECUENCIA_1V)
+Message[305] C:\USERS\LOGICOS\DOCUMENTS\CJ_DIGITALES_ENSAN\PINES_CJ.X\MAIN_PINES_CJ.ASM 57 : Using default destination of 1 (file).
+Message[305] C:\USERS\LOGICOS\DOCUMENTS\CJ_DIGITALES_ENSAN\PINES_CJ.X\MAIN_PINES_CJ.ASM 71 : Using default destination of 1 (file).
